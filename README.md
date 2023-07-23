@@ -1,6 +1,6 @@
 # Python-FirstExercise
 In this exercise, you’ll practice using the interactive Python interpreter, running Python scripts, and using Python’s syntax.
-## **tep One: Working in Python Files**
+## **Step One: Working in Python Files**
 
 For all the syntax challenges, do your work in script files (Python files normally end with ***.py***). We’ve provided a starter file for each of these with the problem statement and simple print-style tests already.
 
